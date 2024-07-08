@@ -25,3 +25,9 @@ getUser(input2).then((result) => console.log(result));
 
 // module.exports = getUser;
 export default getUser;
+
+/*
+รหัส นศ.: 660610771
+
+ชื่อ-สกุล : ปฏิพันธ์ เลขนอก
+*/
